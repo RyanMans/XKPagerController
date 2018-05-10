@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name             = 'XKPagerController'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = '分页滚动视图工具'
 
   s.homepage         = 'https://github.com/RyanMans/XKPagerController'
